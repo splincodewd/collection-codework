@@ -3,6 +3,13 @@
 
 <hr>
 
+<img src="https://pbs.twimg.com/profile_images/545505809036103680/Bd1I7Nav.jpeg" width="10%" alt="" />
+
+#### JavaScript
+- [2017. Логгер сервис для angular-приложения и локальных разработок](https://github.com/splincodewd/client-logger)
+
+<hr>
+
 <img src="https://habrastorage.org/web/bbd/613/c21/bbd613c2128144bbae24e0cda4b412ef.png" width="10%" alt="" />
 
 #### Публикации
