@@ -6,7 +6,7 @@
 <img src="https://pbs.twimg.com/profile_images/545505809036103680/Bd1I7Nav.jpeg" width="10%" alt="" />
 
 #### JavaScript
-- [2017. Логгер сервис для angular-приложения и локальных разработок](https://github.com/splincodewd/client-logger)
+- [2017. Логгирование web-приложений](https://github.com/splincodewd/client-logger)
 
 <hr>
 
@@ -68,6 +68,9 @@
 --------------
 
 <img src="https://upload.wikimedia.org/wikipedia/ru/8/8a/Stankin.gif" width="10%" height="10%" alt="">
+
+#### Технические материалы
+- [Страница кафедры с лекциями, семинарами и вебинарами](https://github.com/stankin/uits-labs)
 
 #### C++
 - [2015. Функции для работы с файлами](https://github.com/splincodewd/collection-codework/tree/master/cpp/fs)
