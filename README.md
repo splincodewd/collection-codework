@@ -1,23 +1,27 @@
 # Задачи по программированию
 #### Список задач, которые являются типовыми задачами в программировании, встречающиеся мне на пути обучения в университете и различных компаниях (на собеседовании или во время трудоустройства):
 
-<hr>
+--------------
 
 <img src="https://pbs.twimg.com/profile_images/545505809036103680/Bd1I7Nav.jpeg" width="10%" alt="" />
 
 #### JavaScript
 - [2017. Логгирование web-приложений](https://github.com/splincodewd/client-logger)
 
-<hr>
+--------------
 
 <img src="https://habrastorage.org/web/bbd/613/c21/bbd613c2128144bbae24e0cda4b412ef.png" width="10%" alt="" />
 
 #### Публикации
 - [2017. Перевод Chromium архитектуры](https://github.com/splincode/chromium-architecture)
 
+--------------
+
 #### Typescript
 - [2017. Динамическая загрузка компонентов в Angular 4](https://github.com/splincodewd/collection-codework/tree/master/typescript/angular/dynamic.ts)
 - [2017. Написание обработчика КриптоПро ЭЦП Browser plug-in для веб-компонентов на Angular](https://github.com/splincode/cryptopro-browser-plugin)
+
+--------------
 
 #### Shell
 - [2016. Системный монитор](https://github.com/splincode/system-monitor)
@@ -27,6 +31,7 @@
 - [2017. Заполнения сущностей в базе по цепочке связей (async/await)](https://github.com/splincodewd/collection-codework/tree/master/javascript/async-await)
 - [2016. Интеграция с устройствами и управление через веб-интерфейс](https://github.com/splincode/ihardware/tree/master/omron)
 - [2017. Парсинг динамического сайта для получения модели данных](https://github.com/splincode/parse-site-example)
+
 --------------
 
 <img src="http://json.tv/images/general/2014/12/09/20141209192310-1292.png" width="18%" height="10%" alt="">
@@ -71,6 +76,8 @@
 
 #### Технические материалы
 - [Страница кафедры с лекциями, семинарами и вебинарами](https://github.com/stankin/uits-labs)
+
+--------------
 
 #### C++
 - [2015. Функции для работы с файлами](https://github.com/splincodewd/collection-codework/tree/master/cpp/fs)
