@@ -1,6 +1,6 @@
 import onChange from 'https://cdn.jsdelivr.net/npm/on-change@5.0.1/+esm';
 import i18next from 'i18next';
-import resources from './locales/index.js';
+import resources from './locales.js';
 
 export default async function () {
   const state = {
