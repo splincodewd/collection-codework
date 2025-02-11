@@ -15,3 +15,4 @@ public:
     ViewLocation& title(QString title);
     ViewLocation& show();
 };
+///
